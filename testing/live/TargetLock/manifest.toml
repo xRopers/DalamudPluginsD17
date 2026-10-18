@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/xRopers/TargetLock.git"
+commit = "25f0ab5183a044b4778b5f984dd4b14b67c59e88"
+owners = ["xRopers"]
+project_path = ""
+changelog = "Initial release."
